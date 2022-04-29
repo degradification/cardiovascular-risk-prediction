@@ -1,6 +1,7 @@
 # cardiovascular-risk-prediction
 COMP5300 - Computing for Health and Medicine Course Project
-\nSpring 2022
+
+Spring 2022
 
 Team Members: Mustapha Ayad, Krestina Beshara, Dalton Grady, Bibi Hajira Mahammada, Prism Prajapati
 
